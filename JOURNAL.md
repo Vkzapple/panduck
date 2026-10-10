@@ -36,6 +36,6 @@ Before touching KiCad, i spent some time figuring out what Panduck actually is.
 
 ![Panduck_ Your Digital Desk Companion](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/6e4ad77dffd992266bdcddfe8a2e12d1fcd656829d4ba6efae27b3828a3d410e.png)
 
-**Time spent this week: X hours**
+**Time spent this week: 1 hours**
 
 ![images 4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/4da1d5d3d0313371d303533a722463743031241e0e019e9ab014543cdfeb2383.png)
