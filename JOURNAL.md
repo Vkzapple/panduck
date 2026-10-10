@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 3 | 7h | 3 |
+| Week 1 | Tier 3 | 19h | 3 |
 
 ## Contents
 
 1. [2026-10-10 – #### October 5 - 6: Panduck idea and concept by evellkz](#2026-10-10-october-5---6-panduck-idea-and-concept-by-evellkz)
 2. [2026-10-10 – #### October 5 - 7: Panduck schematic (5h progress, actually 3h](#2026-10-10-october-5---7-panduck-schematic-5h-progress-actua)
-3. [2026-10-10 – #### October 8 - 10: Panduck PCB layout + final routing (3h) by evellkz](#2026-10-10-october-8---10-panduck-pcb-layout-final-routing-3)
+3. [2026-10-10 – ![Screenshot 2026-10-10 164446](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/bc7f811d60503cf210c21541d75935f5bd402e4175f42037961333aa130a8af7.png)](#2026-10-10-screenshot-2026-10-10-164446httpshalflifehackclub)
 
 ## Design
 
@@ -67,9 +67,11 @@ Got the whole schematic done in about 5 hours, from picking parts to the last ne
 
 ![Screenshot 2026-10-10 071611](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/e9f886570e2386bf64933d720fd31a53896aa72218734294d8fc650fc3d0d0a9.png)
 
-### 2026-10-10 – #### October 8 - 10: Panduck PCB layout + final routing (3h) by evellkz
+### 2026-10-10 – ![Screenshot 2026-10-10 164446](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/bc7f811d60503cf210c21541d75935f5bd402e4175f42037961333aa130a8af7.png)
 
-**3h**
+**15h**
+
+![Screenshot 2026-10-10 164446](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/bc7f811d60503cf210c21541d75935f5bd402e4175f42037961333aa130a8af7.png)
 
 #### October 8 - 10: Panduck PCB layout + final routing (3h) by evellkz
 
@@ -88,3 +90,25 @@ Finished the PCB!
 ![pcb_final_documentation](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/93d888f54aa31bfa7b69cc2b86ac4bf0fb4af239b29e4c800bf0cbd4a280f986.jpg)
 
 ![images 4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/4da1d5d3d0313371d303533a722463743031241e0e019e9ab014543cdfeb2383.png)
+
+![Screenshot 2026-10-10 143517](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/5e7931ba609f2e4545316457ac7fad4cdd5f5caab829bda20cc15aae724759b6.png)
+
+![Screenshot 2026-10-10 144130](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/543b0ed765f94aa961da3005931816fc01c3cbfb82cabc80d01079450df82693.png)
+
+![Screenshot 2026-10-10 142249](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/59248b3f9e94b94050d6f9f456579c27b35434cf61aec236f451a2e7e575ac6f.png)
+
+![Screenshot 2026-10-08 132923](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/01cffcdb7fff465ddfe45004759f9f0205b38db75eecbe34ad9cd09964e2c91f.png)
+
+![Screenshot 2026-10-08 132953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/ad8c49bee6d8a808052f54b07a50b75765771586b6103c90bdaa1ee530279d12.png)
+
+![Screenshot 2026-10-10 071611](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/e9f886570e2386bf64933d720fd31a53896aa72218734294d8fc650fc3d0d0a9.png)
+
+![Screenshot 2026-10-08 153826](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/65035966618e325d2fbc92b7b173a14da02df2d33f0ac4011984cb5c5202512f.png)
+
+![Screenshot 2026-10-07 101857](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/2e7d996fb8e1fa3edabaf9cc54dbcd385f92ce052b7ac8eac080429584584d7c.png)
+
+![Screenshot 2026-10-08 142527](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/a8044b55b3992ea5eba365b0e3e4f44a48edc26be9f539d0ecdafcd4be4b35ef.png)
+
+![WhatsApp Image 2026-10-10 at 5.15.23 PM 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/f745401cca6f8f5cdd38d646fb40be92861ecb9f16172c6eac87184d3fb81f75.jpg)
+
+![WhatsApp Image 2026-10-10 at 5.15.22 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/ca6d91dc0094e702036d60a925fbe0cddb5f8780348fca24015756a535c92d66.jpg)
