@@ -10,46 +10,32 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 3 | 8h | 1 |
+| Week 1 | Tier 3 | 1h | 1 |
 
 ## Contents
 
-1. [2026-10-10 – #### October 7 - 10: PCB design for Panduck by evellkz](#2026-10-10-october-7---10-pcb-design-for-panduck-by-evellkz)
+1. [2026-10-10 – #### October 5 - 6: Panduck idea and concept by evellkz](#2026-10-10-october-5---6-panduck-idea-and-concept-by-evellkz)
 
 ## Design
 
-### 2026-10-10 – #### October 7 - 10: PCB design for Panduck by evellkz
+### 2026-10-10 – #### October 5 - 6: Panduck idea and concept by evellkz
 
-**8h**
+**1h**
 
-#### October 7 - 10: PCB design for Panduck by evellkz
+#### October 5 - 6: Panduck idea and concept by evellkz
 
-This week i did the whole PCB side of Panduck, from finding parts to final routing.
+Before touching KiCad, i spent some time figuring out what Panduck actually is.
 
-**Research (Oct 7, 4PM):** Picked the main parts: ESP32-WROOM-32 for the brain, an AMS1117 3.3V regulator, USB-C for power and data, an EC11 encoder with push button, and SK6812 RGB LEDs in a chain. Downloaded symbols and footprints for all of them. huhuhu
+**The idea (Oct 5):** I want a tiny desk companion that feels alive, not just another gadget. Panduck is a little duck that sits on my desk and shows how my day is going through its face, sounds, lights, and small moves. Happy when a notification comes in, excited on a GitHub commit, focused when i'm in the zone, and a sad X_X face when my build fails.
 
-**Schematic (Oct 7, 7PM):** Drew everything in KiCad and split it into sections: power, MCU, display, audio, sensors, and UI. Lots of net labels and a lot of checking.
+**Features (Oct 5):** Screen for the face, speaker + mic for sound and voice commands, a rotary knob with push button for control, RGB lights for moods, and some sensors. It connects to my PC over Wi-Fi, so a Python agent can tell it what's happening.
 
-**PCB layout (Oct 9):** Imported the netlist, placed the parts, and set the board outline with four mounting holes. Placing the ESP32 and the USB-C connector took the most thinking, since the antenna zone needs its space.
+**Look and size (Oct 6):** Designed the cute duck look with the little yellow tuft on top. About 10 x 10 x 11 cm, so it fits on a desk without taking over. Also made the poster to put everything in one place, expressions, hardware breakdown, and tech stack.
 
-**Routing (Oct 10 ):** Finished the routing today. Kept the traces to the display and LED lines short and made the power paths wider. Board is PANDORA PX MAIN v0.1.
+**Next:** Turn the idea into a real PCB. Hopefully it quacks :D
 
-![Screenshot 2026-10-10 134934](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/38f8bdd3035976c38f3cfe7f2edb77d1e3e6947a95f67d9945dfa6329d99202f.png)
+![Panduck_ Your Digital Desk Companion](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/6e4ad77dffd992266bdcddfe8a2e12d1fcd656829d4ba6efae27b3828a3d410e.png)
 
-**Time spent this week: 10hours**
+**Time spent this week: X hours**
 
-![Screenshot 2026-10-10 142249](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/59248b3f9e94b94050d6f9f456579c27b35434cf61aec236f451a2e7e575ac6f.png)
-
-![Screenshot 2026-10-10 144130](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/543b0ed765f94aa961da3005931816fc01c3cbfb82cabc80d01079450df82693.png)
-
-![panduck_finalroute](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/7e4ea03148556557b94805f1c7526090e92a6eb8fd96b039591edbcf3b4d90bc.png)
-
-![Screenshot 2026-10-10 071611](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/e9f886570e2386bf64933d720fd31a53896aa72218734294d8fc650fc3d0d0a9.png)
-
-![Screenshot 2026-10-10 134934](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/38f8bdd3035976c38f3cfe7f2edb77d1e3e6947a95f67d9945dfa6329d99202f.png)
-
-![Screenshot 2026-10-08 132953](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/ad8c49bee6d8a808052f54b07a50b75765771586b6103c90bdaa1ee530279d12.png)
-
-![Screenshot 2026-10-08 153826](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/65035966618e325d2fbc92b7b173a14da02df2d33f0ac4011984cb5c5202512f.png)
-
-![Screenshot 2026-10-10 163231](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/d2b15948a08b5f8faf4baafa3757968be4e20d8a44fd21148c0b2af96c55ef91.png)
+![images 4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/iLGJiHEs2pHLWDGxKwPYeIkFIYtwq3Qd/4da1d5d3d0313371d303533a722463743031241e0e019e9ab014543cdfeb2383.png)
